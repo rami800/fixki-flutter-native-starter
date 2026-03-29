@@ -1,0 +1,6 @@
+android/app/src/main/kotlin/__PACKAGE_PATH__/MainActivity.kt
+android/app/src/main/AndroidManifest.xml
+android/app/build.gradle
+android/build.gradle
+android/settings.gradle
+ios/Runner/Info.plist

@@ -1,0 +1,18 @@
+This is a Flutter Native starter template.
+
+Rules:
+1. Keep this as a true native Flutter app for Android and iOS.
+2. Do not build a website wrapper.
+3. Keep placeholders unchanged until the platform replaces them:
+   - __APP_NAME__
+   - __PACKAGE_NAME__
+   - __IOS_BUNDLE_ID__
+   - __APP_NAME_SNAKE__
+   - __APP_DESCRIPTION__
+4. Prefer changes inside lib/ and assets/.
+5. Only change Android or iOS native files when a real native requirement exists.
+
+You can:
+- Build native screens, widgets, state, and navigation.
+- Add Dart files under lib/.
+- Add safe Flutter dependencies to pubspec.yaml when needed.
